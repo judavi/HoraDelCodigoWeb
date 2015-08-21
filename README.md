@@ -1,2 +1,2 @@
-# codeHourTutores
-Código para los tutores de la hora del codigo (Microsoft) de desarrollo web 
+# Hora del codigo
+Este es el código para los estudiantes de la hora del codigode desarrollo web 
